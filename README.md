@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Transcriptase730
 - 👀 I’m interested in discovering the dark secrets like the mariana web
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate with you guys
 - 📫 How to reach me: use the github,search my username "Transcriptase"
 - 😄 Pronouns: I'm male
