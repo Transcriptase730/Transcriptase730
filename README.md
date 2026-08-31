@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with you guys
 - 📫 How to reach me: use the github,search my username "Transcriptase"
 - 😄 Pronouns: I'm male
-- ⚡ Fun fact: I'm 19 years old
+- ⚡ Fun fact: I'm 21 years old
 
 <!---
 Transcriptase730/Transcriptase730 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
